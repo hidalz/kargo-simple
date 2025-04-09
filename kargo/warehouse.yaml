@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/hidalz/guestbook
+      repoURL: ghcr.io/algolia/guestbook
       imageSelectionStrategy: SemVer
